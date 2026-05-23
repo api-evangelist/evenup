@@ -1,0 +1,59 @@
+aid: evenup
+name: EvenUp
+description: >-
+  EvenUp is a SaaS company building proactive AI for personal-injury law firms,
+  spanning the full case lifecycle from intake and treatment management through
+  demand drafting, negotiation, discovery, and trial support. The platform
+  combines AI drafting, communication agents, medical record management,
+  proactive workflows, and executive analytics on top of integrations with
+  popular case-management systems. EvenUp reports serving more than 2,000
+  personal-injury firms and processing roughly 10,000 cases per week, with
+  more than $10B in damages claimed through the platform. The company is
+  venture-funded (Series E) at a $2B+ valuation, with backing from Bessemer,
+  B Capital, Bain Capital, Lightspeed, Premji Invest, and others. EvenUp does
+  not publish a public developer portal; integrations are delivered through
+  case-management partner connectors rather than a self-serve API.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Legal
+  - Legal Tech
+  - Personal Injury
+  - Plaintiff Law
+  - Case Management
+  - Demand Letters
+  - Medical Records
+  - AI Drafting
+  - Workflow Automation
+  - Settlement
+  - Litigation
+  - SaaS
+url: https://raw.githubusercontent.com/api-evangelist/evenup/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.evenuplaw.com
+  - type: About
+    url: https://www.evenuplaw.com/about
+  - type: Products
+    url: https://www.evenuplaw.com/products
+  - type: Blog
+    url: https://www.evenuplaw.com/blog
+  - type: Newsroom
+    url: https://www.evenuplaw.com/newsroom
+  - type: Careers
+    url: https://www.evenuplaw.com/careers
+  - type: Contact
+    url: https://www.evenuplaw.com/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/evenup
+  - type: Twitter
+    url: https://twitter.com/evenuplaw
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
