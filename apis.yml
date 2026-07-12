@@ -36,6 +36,10 @@ modified: '2026-05-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/evenup-trust-center.yml
+  - type: DomainSecurity
+    url: security/evenup-domain-security.yml
   - type: Website
     url: https://www.evenuplaw.com
   - type: About
