@@ -48,7 +48,7 @@ tags:
   - Demand Letters
   - Medical Records
   - AI Drafting
-  - Workflow-Automation
+  - Workflow Automation
   - Settlement
   - Litigation
   - Software-as-a-Service
@@ -65,6 +65,7 @@ tags_raw:
   - Settlement
   - Litigation
   - SaaS
+  - Workflow-Automation
 url: https://raw.githubusercontent.com/api-evangelist/evenup/refs/heads/main/apis.yml
 created: '2026-05-23'
 modified: '2026-05-23'
